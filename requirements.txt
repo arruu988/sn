@@ -3,20 +3,20 @@ tgcrypto==1.2.5
 
 pytgcalls==2.1.0
 
-yt-dlp==2024.12.13
+yt-dlp
 
-aiohttp==3.10.11
-aiofiles==24.1.0
+aiohttp
+aiofiles
 
-requests==2.32.3
+requests
 
-Pillow==10.4.0
-pydub==0.25.1
-mutagen==1.47.0
+Pillow
+pydub
+mutagen
 
-beautifulsoup4==4.12.3
-lxml==5.3.0
+beautifulsoup4
+lxml
 
-python-dotenv==1.0.1
-psutil==6.1.1
-cachetools==5.5.0
+python-dotenv
+psutil
+cachetools
